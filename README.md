@@ -3,7 +3,7 @@ Web developers tools
 
 First Day:
 Add HTML/Boilerplate
-Start deh HTML/form
+Start HTML/form
 
 ## Proyect
 - [x] Boilerplate
@@ -26,7 +26,7 @@ Start deh HTML/form
 1. The first is go to
 [github.atom.io/login](github.atom.io/login)
 
-2. Generate the token.
+2. Profile > Developer Settings > Personal access tokens
 
 3. Atom go to Packages > GitHub > Toggle GitHub Table
 
@@ -44,7 +44,7 @@ Start deh HTML/form
 
 ### Solution for the identify before pull a repository GitHub
 
-1. Check de *.github* folder
+1. Check the *.github* folder
 
 2. Open the file *config*
 
@@ -60,3 +60,11 @@ Start deh HTML/form
 :pushpin: [Emojis](https://gist.github.com/rxaviers/7360908) :blush:
 
 :pushpin: [Markdown Syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
+### HTML Tools
+
+:pushpin: [Normalize](https://github.com/necolas/normalize.css/)
+
+:pushpin: [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+
+:pushpin: [HTML5 :start: Boilerplate](https://html5boilerplate.com/)
